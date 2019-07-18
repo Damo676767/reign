@@ -1,0 +1,20 @@
+{
+  "name": "reign",
+  "version": "1.0.0",
+  "description": "The game of reign",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Reign",
+    "Cards",
+    "Games"
+  ],
+  "author": "Damien Porter",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
